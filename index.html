@@ -27,7 +27,6 @@
         <div class="ctaRow">
           <a class="button" href="#days">Review days</a>
           <a class="button secondary" href="#hotels">Compare hotels</a>
-          <a class="button ghost" href="downloads/Norway_2027_Visual_Review_Guide_v2.pdf">Open PDF</a>
         </div>
       </div>
       <div class="heroPhotos" aria-label="Featured trip photos">
@@ -42,14 +41,14 @@
       <div class="sectionHeader">
         <p class="eyebrow">Current working route</p>
         <h2>At a glance</h2>
-        <p>This site intentionally does not add new destinations, bus substitutions, or unrelated tours. The only guided items kept are the planned Lofoten kayaking and Tromsø aurora chases. Religious-building sightseeing is excluded.</p>
+        <p>This site follows the current working itinerary: open-jaw flights, scenic rail, rental-car fjord roads from Ålesund to Stavanger, internal flights, the Nordland Line, Lofoten kayaking, and Tromsø aurora nights.</p>
       </div>
       <div class="routeRibbon" id="routeRibbon" aria-label="Route at a glance"></div>
       <div class="guardrails">
         <article><strong>Trip style</strong><span>Scenic rail, rental-car fjord roads, easy/moderate walks, waterfalls, kayaking, aurora.</span></article>
-        <article><strong>Driving</strong><span>Rental car only from Ålesund to Stavanger, with ferries only when part of the driving route.</span></article>
+        <article><strong>Driving</strong><span>Rental car from Ålesund to Stavanger, with ferry segments built into the road route.</span></article>
         <article><strong>Hotels</strong><span>Practical breakfast-included lodging first; scenic splurge only where it clearly earns the price.</span></article>
-        <article><strong>Excluded</strong><span>No religious-building stops and no new bus/tour alternatives beyond the existing plan.</span></article>
+        <article><strong>Activity focus</strong><span>Waterfronts, parks, viewpoints, fjords, waterfalls, scenic roads, kayaking, and aurora chases within the existing route.</span></article>
       </div>
     </section>
 
@@ -57,7 +56,7 @@
       <div class="sectionHeader">
         <p class="eyebrow">Daily review cards</p>
         <h2>Day-by-day itinerary</h2>
-        <p>Open each card while reviewing together. The decision line is meant to capture the actual item to refine, without expanding the plan.</p>
+        <p>Open each card while reviewing together. The decision line captures the actual item to refine while keeping the review inside the current route.</p>
       </div>
       <div class="filters">
         <input id="searchBox" type="search" placeholder="Search day, place, hotel, waterfall, train…" aria-label="Search itinerary">
@@ -73,16 +72,16 @@
       <div class="sectionHeader">
         <p class="eyebrow">Missing layer from v1/v2 PDF</p>
         <h2>Hotel cards with review links</h2>
-        <p>Hotel and review-site photo spreads are linked rather than copied wholesale. Where reusable hotel/lodging images were available, they appear inline here.</p>
+        <p>Hotel and review-site photo spreads are provided as browsing links. Where reusable hotel/lodging images were available, they appear inline here.</p>
       </div>
       <div id="hotelCards" class="hotelGrid"></div>
     </section>
 
     <section id="drives" class="section alt">
       <div class="sectionHeader">
-        <p class="eyebrow">Rental-car section only</p>
+        <p class="eyebrow">Rental-car scenic section</p>
         <h2>Scenic drive review</h2>
-        <p>These are the drive segments from the existing plan. Ferries are included only where they are part of the road route or Bodø–Lofoten transfer decision.</p>
+        <p>These are the drive segments from the existing plan. Ferry details cover road-route segments and the Bodø–Lofoten transfer decision.</p>
       </div>
       <div id="driveCards" class="driveGrid"></div>
     </section>
@@ -111,13 +110,11 @@
 
     <section id="downloads" class="section downloads">
       <div>
-        <p class="eyebrow">Downloads</p>
-        <h2>Reference files included in this site package</h2>
-        <p>The PDF and editable DOCX are included in the <code>downloads/</code> folder. The original planning PDFs are included in <code>source_docs/</code>.</p>
+        <p class="eyebrow">Planning files</p>
+        <h2>Source planning PDFs included in this site package</h2>
+        <p>The original planning PDFs are included in the <code>source_docs/</code> folder for reference while refining the website itinerary.</p>
       </div>
       <div class="downloadGrid">
-        <a href="downloads/Norway_2027_Visual_Review_Guide_v2.pdf">Review guide PDF</a>
-        <a href="downloads/Norway_2027_Visual_Review_Guide_v2.docx">Editable guide DOCX</a>
         <a href="source_docs/norway_2027_21_day_itinerary_costs_latest(1).pdf">21-day itinerary + costs</a>
         <a href="source_docs/norway_2027_booking_calendar_latest.pdf">Booking calendar</a>
         <a href="source_docs/norway_2027_bookable_checklist_hotels_latest.pdf">Hotel/vendor checklist</a>
@@ -135,7 +132,7 @@
   </main>
 
   <footer>
-    <p>Norway 2027 Visual Review Guide • Static GitHub Pages-ready site • No build step required.</p>
+    <p>Norway 2027 Visual Review Guide • Static GitHub Pages-ready site • HTML/CSS/JS only.</p>
   </footer>
   <script src="assets/js/data.js"></script>
   <script src="assets/js/app.js"></script>

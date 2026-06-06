@@ -1,6 +1,6 @@
 # Norway 2027 Visual Review Guide — Static Website
 
-This folder is a GitHub Pages-ready static website. It uses only HTML, CSS, JavaScript, and local image/document files. No build tools are required.
+This folder is a GitHub Pages-ready static website. It uses HTML, CSS, JavaScript, and local image/document files only.
 
 ## Files
 
@@ -9,7 +9,6 @@ This folder is a GitHub Pages-ready static website. It uses only HTML, CSS, Java
 - `assets/js/data.js` — itinerary, hotel, link, and booking data
 - `assets/js/app.js` — renders the cards and search/filter UI
 - `assets/img/` — local review images
-- `downloads/` — the PDF and editable DOCX review guide
 - `source_docs/` — the original planning PDFs used as source references
 - `.nojekyll` — tells GitHub Pages to publish the folder exactly as-is
 
@@ -31,4 +30,4 @@ The easiest edits are in `assets/js/data.js`:
 - Change booking timing in `booking`
 - Change transport links in `transport`
 
-The site intentionally stays locked to the previously identified itinerary and excludes religious-building stops.
+The site stays locked to the previously identified itinerary and emphasizes the planned scenic rail, rental-car fjord roads, easy walks, hotel comparisons, Lofoten kayaking, and Tromsø aurora nights.

@@ -30,7 +30,7 @@ window.NORWAY_DATA = {
       "pace": "Light",
       "sleep": "Oslo",
       "title": "Arrival, harbour walk, early dinner",
-      "movement": "Arrive Oslo; no major logistics beyond reaching hotel",
+      "movement": "Arrive Oslo; simple transfer to hotel",
       "plan": [
         "Recover from flight.",
         "Short harbour/waterfront walk if energy is good.",
@@ -49,7 +49,7 @@ window.NORWAY_DATA = {
           "url": "https://www.youtube.com/results?search_query=Oslo+harbour+Opera+House+waterfront+walk"
         }
       ],
-      "decision": "Keep this day light; do not load it with museums."
+      "decision": "Keep this day light with arrival recovery, harbour walk, dinner, and sleep."
     },
     {
       "day": "2",
@@ -124,7 +124,7 @@ window.NORWAY_DATA = {
       "pace": "Light",
       "sleep": "Flåm/Aurland",
       "title": "Stegastein + easy fjord/valley walks",
-      "movement": "Local transfer/taxi/rental option only if needed; no new tour substitution",
+      "movement": "Local transfer/taxi/rental support for Stegastein and easy fjord walks",
       "plan": [
         "Morning: Stegastein viewpoint.",
         "Afternoon: easy fjord/valley walks.",
@@ -148,7 +148,7 @@ window.NORWAY_DATA = {
           "url": "https://www.google.com/search?q=Flam+Aurland+fjord+walks+Stegastein+reviews"
         }
       ],
-      "decision": "Short boat remains optional only; not a core cruise day."
+      "decision": "Main focus: Stegastein and easy fjord/valley walks; short boat remains a weather-dependent add-on."
     },
     {
       "day": "5",
@@ -180,7 +180,7 @@ window.NORWAY_DATA = {
           "url": "https://www.google.com/search?q=laundromat+near+Zander+K+Hotel+Bergen"
         }
       ],
-      "decision": "This is deliberately not a packed Bergen sightseeing stay."
+      "decision": "Bergen is a reset stop: laundry, groceries, harbour walk, and a slower pace before the driving section."
     },
     {
       "day": "6",
@@ -193,7 +193,7 @@ window.NORWAY_DATA = {
       "plan": [
         "Morning flight Bergen to Ålesund.",
         "Pick up compact SUV/wagon.",
-        "Short city walk only; avoid heavy driving after arrival."
+        "Short city walk after arrival; save driving energy for the next day."
       ],
       "images": [
         "alesund-aksla.jpg"
@@ -254,7 +254,7 @@ window.NORWAY_DATA = {
           "url": "https://www.youtube.com/results?search_query=Alesund+Geiranger+Eagle+Road+Flydalsjuvet+drive"
         }
       ],
-      "decision": "This is not a bus/tour day; keep it as rental-car scenic driving."
+      "decision": "Rental-car scenic drive focused on Eagle Road, Flydalsjuvet, and fjord viewpoints."
     },
     {
       "day": "8",
@@ -267,7 +267,7 @@ window.NORWAY_DATA = {
       "plan": [
         "Morning in Geiranger area if weather is good.",
         "Drive to Olden/Loen.",
-        "Use waterfalls and short scenic pullouts, not long hikes."
+        "Use waterfalls and short scenic pullouts; save longer hikes for better-fit days."
       ],
       "images": [
         "loen-lovatnet.jpg",
@@ -331,7 +331,7 @@ window.NORWAY_DATA = {
       "movement": "Rental car drive",
       "plan": [
         "Longer scenic day but manageable.",
-        "Skipping Lom stays consistent with the current rebuilt plan.",
+        "Current route continues directly to Hardanger to keep the fjord-road loop compact.",
         "Arrive in Hardanger area as waterfall base."
       ],
       "images": [
@@ -352,7 +352,7 @@ window.NORWAY_DATA = {
           "url": "https://www.youtube.com/results?search_query=Hardangerfjord+scenic+drive+Norway"
         }
       ],
-      "decision": "Keep this as the compact fjord-road loop; do not add extra overnight detours."
+      "decision": "Compact fjord-road loop with Hardanger as the waterfall base."
     },
     {
       "day": "11",
@@ -418,7 +418,7 @@ window.NORWAY_DATA = {
           "url": "https://www.youtube.com/results?search_query=Hardanger+Stavanger+drive+ferry+Norway"
         }
       ],
-      "decision": "No new transport mode; ferries only if part of driving route."
+      "decision": "Drive/ferry route to Stavanger, using road ferries where the route requires them."
     },
     {
       "day": "13",
@@ -463,12 +463,12 @@ window.NORWAY_DATA = {
       "base": "Trondheim",
       "pace": "Light",
       "sleep": "Trondheim",
-      "title": "Fly Stavanger → Trondheim; easy non-religious walk",
+      "title": "Fly Stavanger → Trondheim; easy river/wharf walk",
       "movement": "Internal flight",
       "plan": [
         "Fly Stavanger to Trondheim.",
         "Keep the afternoon easy.",
-        "Use non-religious walking only: river/wharf/Bakklandet-style area."
+        "Use an easy river, wharf, or Bakklandet-style walking area."
       ],
       "images": [
         "nordland-line.jpg"
@@ -491,7 +491,7 @@ window.NORWAY_DATA = {
           "url": "https://www.youtube.com/results?search_query=Trondheim+Bakklandet+river+wharf+walk"
         }
       ],
-      "decision": "Religious-building sightseeing is excluded."
+      "decision": "Transition day: short city walk, dinner, and early night before the Nordland Line."
     },
     {
       "day": "15",
@@ -593,7 +593,7 @@ window.NORWAY_DATA = {
           "url": "https://www.google.com/search?q=Lofoten+guided+kayaking+reviews+Reine+Svolvaer"
         }
       ],
-      "decision": "Only guided kayaking is kept as planned; no extra tour substitution."
+      "decision": "Guided kayaking is the planned Lofoten activity; keep backup-day flexibility for weather."
     },
     {
       "day": "18",
@@ -606,7 +606,7 @@ window.NORWAY_DATA = {
       "plan": [
         "Haukland/Uttakleiv-style beaches.",
         "Villages and short viewpoints.",
-        "No pressure day; aurora possible as a bonus."
+        "Easy-paced day; aurora possible as a bonus."
       ],
       "images": [
         "haukland-beach.jpg",
@@ -696,7 +696,7 @@ window.NORWAY_DATA = {
           "url": "https://www.youtube.com/results?search_query=Tromso+northern+lights+aurora+chase"
         }
       ],
-      "decision": "Do not overfill the daytime schedule; the night activity is the point."
+      "decision": "Keep daytime slow; the evening aurora chase is the main event."
     },
     {
       "day": "21",
@@ -1184,7 +1184,7 @@ window.NORWAY_DATA = {
     {
       "stop": "Trondheim",
       "dates": "Sep 26–27",
-      "fit": "One-night transit city before the Nordland Line. Sightseeing kept non-religious: waterfront, river, Bakklandet-style walk.",
+      "fit": "One-night transit city before the Nordland Line. Easy walking focus: waterfront, river, and Bakklandet-style streets.",
       "image": "nordland-line.jpg",
       "imageLabel": "Nordland Line context",
       "candidates": [
@@ -1411,7 +1411,7 @@ window.NORWAY_DATA = {
     [
       "Now / when ready",
       "Confirm final travel style",
-      "21 ground days, no required fjord cruise, Lofoten kayaking included."
+      "21 ground days with scenic rail, fjord-road driving, Lofoten kayaking, and Tromsø aurora nights."
     ],
     [
       "Nov 2026",
@@ -1560,7 +1560,7 @@ window.NORWAY_DATA = {
     },
     {
       "mode": "Ferries",
-      "detail": "Only where part of the road route or the Bodø→Lofoten transfer decision.",
+      "detail": "Road-route ferries plus the Bodø→Lofoten transfer decision.",
       "links": [
         {
           "label": "Torghatten Nord",
@@ -1569,8 +1569,8 @@ window.NORWAY_DATA = {
       ]
     },
     {
-      "mode": "Planned guided activities only",
-      "detail": "Lofoten kayaking and Tromsø aurora chases are retained. No extra bus/tour-based substitutions.",
+      "mode": "Planned guided activities",
+      "detail": "Lofoten kayaking and Tromsø aurora chases are the guided items in the itinerary.",
       "links": [
         {
           "label": "Lofoten Aktiv",
@@ -1594,7 +1594,7 @@ window.NORWAY_DATA = {
   "routeStops": [
     {
       "route": "Ålesund → Geiranger",
-      "core": "Eagle Road and Flydalsjuvet. This is a scenic-drive day, not a hike day.",
+      "core": "Eagle Road and Flydalsjuvet. Skip big hikes; this is a scenic-road day.",
       "image": "geiranger-eagles-road.jpg",
       "links": [
         {
@@ -1624,7 +1624,7 @@ window.NORWAY_DATA = {
     },
     {
       "route": "Olden/Loen → Hardangerfjord",
-      "core": "Longer scenic day, staying compact by not adding Lom/Runde detours.",
+      "core": "Longer scenic day with a compact direct transfer into the Hardanger area.",
       "image": "hotel-ullensvang-view.jpg",
       "links": [
         {
